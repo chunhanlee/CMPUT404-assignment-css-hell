@@ -21,4 +21,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes
+=======
 
+Removed internal css for "A Tale of Two Cities"
+
+Resources
+=========
+
+Used for background Image for Part 1
+http://textures8.com/paper-grunge-background-eight/
