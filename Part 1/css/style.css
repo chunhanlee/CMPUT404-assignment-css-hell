@@ -33,8 +33,11 @@ hr  {
 blockquote {
     font-size: 97%;
     font-style: italic;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20 em;
+    
+    
 }
 
 .mynote    {
