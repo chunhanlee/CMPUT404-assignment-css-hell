@@ -24,10 +24,11 @@ Code is licensed under the Apache 2.0 license.
 Changes
 =======
 
-Removed internal css for "A Tale of Two Cities"
+Removed internal css for all 3 gutenberg html files
 
 Resources
 =========
+Used the template css from "A Tale of Two Cities"
 
 Used for background Image for Part 1
 http://textures8.com/paper-grunge-background-eight/
