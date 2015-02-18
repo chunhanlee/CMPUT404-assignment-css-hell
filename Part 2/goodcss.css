@@ -1,0 +1,91 @@
+body {
+    background-image: url("simpleblue.jpg");
+}
+
+.c2 {
+    width: 70%;
+    right: 11%;
+    float: right;
+    overflow: hidden;
+    position: relative;
+    color:white;
+    margin: 10px;
+}
+.c1 {
+    background-color: rgba(254, 233, 127, 0.8);
+    border-radius: 25px;
+    width: 1000px;
+    float: left;
+    position: relative;
+    right: 15%;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main{ 
+    width: 70%;
+    left: 8%;
+    position: relative;
+    overflow: hidden;
+}
+.side{ 
+    float: left; 
+    width: 11%;
+    left: 4%;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:white;
+}
+
+.bio, .offer, .jobList {
+    padding-left: 30px;
+}
+
+.jobTitle {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.jobCompany {
+    font-style: italic;
+}
+
+.jobTimeAndPlace {
+    color: black;
+}
+
+.jobDescription {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.pic { 
+    float: left; 
+    width: 200px;
+    height:245px;
+    left: 24%;
+    position: relative;
+    border-radius: 35px;
+    border: 2px solid;
+    overflow: hidden;
+}
+
+.name {
+    font-size: 60px;
+    font-weight: bold;
+    left: 309px;
+    position: relative;
+    padding-top: 10px;
+}
+.imppoints{
+    text-align: center;
+}
+.pointsList, .pointItem {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 1em; 
+}

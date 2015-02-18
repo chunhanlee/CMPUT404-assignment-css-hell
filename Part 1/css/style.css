@@ -9,6 +9,9 @@ P {
     text-indent: 1em;
     margin-top: .25em;
     margin-bottom: .25em;
+    font: 20px 'Berkshire Swash', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
 }
 
 H1,H2,H3,H4,H5,H6 {
@@ -80,6 +83,7 @@ div.fig    {
     display:block;
     margin:0 auto;
     text-align:center;
+
 }
 
 div.middle {
